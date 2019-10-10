@@ -3,8 +3,8 @@
  LED 점멸
 */
 
-const int ledA   =  1;
-const int ledB   =  2;
+const int ledA   =  3;
+const int ledB   =  5;
 
 int number = 1;
 boolean flag = true;
